@@ -1,2 +1,4 @@
 # Nowe
-My first respository
+Hello!
+What are you doing there?
+I am happy that you visit my github!
